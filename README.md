@@ -8,7 +8,6 @@ An asynchronous, fault-tolerant job scraper and monitoring pipeline built with *
 - **Resilience:** Retry policies with exponential backoff and jitter, rate limiting, and user-agent rotation.
 - **Telegram Alerts:** Instant notifications with direct job application links.
 - **Web UI & Netlify Sync:** Lightweight dashboard for reviewing discovered positions.
-- **Obsidian Architecture Vault:** Complete architectural documentation included in `JobMonitor-Obsidian-Vault/`.
 
 ## ⚙️ Quick Start
 1. Navigate to the `project/` directory:
